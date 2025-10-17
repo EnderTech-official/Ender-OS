@@ -4,7 +4,7 @@
 
 **What is Ender OS?**
 
-*Its an modified version of windows 11 that can run on weaker devices. *
+*Its an modified version of windows 11 that can run on weaker devices.*
 
 **What can i find here??**
 
