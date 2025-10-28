@@ -1,6 +1,6 @@
 # Ender OS
 **An optimalized and debloated windows 11.**
-``Created by Ender Tech``
+Created by Ender Tech -# Created by Ender Tech -
 
 **What is Ender OS?**
 
@@ -11,4 +11,5 @@
 *You can find files that are used in that mod.*
 
 **OFFICIAL DISCORD SERVER LINK**
+*https://discord.gg/TNWmEYfSuY*
 
